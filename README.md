@@ -1,6 +1,6 @@
 ## Treehouse
 
-thsi repo is for all completed files through teamtreehouse.com
+this repo is for all completed files through teamtreehouse.com
 
 Also chechout my Treehouse profile [here](https://teamtreehouse.com/marzoogalghazwi)
 
